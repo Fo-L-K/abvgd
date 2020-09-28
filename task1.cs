@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class task1 : MonoBehaviour
 {
     public class Robot
     {
@@ -43,6 +43,5 @@ public class NewBehaviourScript : MonoBehaviour
 
     }
 
-    
 
 }
